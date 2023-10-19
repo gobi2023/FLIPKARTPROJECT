@@ -6,7 +6,7 @@ import { UploadProducts } from "../views/uploadProducts/UploadProducts";
 import { Mynavbar } from "../components/navbars/Mynavbar";
 
 export let ProjectRoutes={
-    path:'Project',
+    path:'FLIPKARTPROJECT',
     element:<><Outlet/></>,
     children:[
         {
