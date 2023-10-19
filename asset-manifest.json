@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FLIPKARTPROJECT/static/css/main.345ec4e7.css",
+    "main.js": "/FLIPKARTPROJECT/static/js/main.f7799dea.js",
+    "static/js/787.27429990.chunk.js": "/FLIPKARTPROJECT/static/js/787.27429990.chunk.js",
+    "static/media/2.jpg": "/FLIPKARTPROJECT/static/media/2.56ed19c9d3be44060182.jpg",
+    "static/media/3.jpg": "/FLIPKARTPROJECT/static/media/3.db3acf57e6bd83f5a126.jpg",
+    "static/media/1.jpg": "/FLIPKARTPROJECT/static/media/1.2a69c2223120286961d0.jpg",
+    "index.html": "/FLIPKARTPROJECT/index.html",
+    "main.345ec4e7.css.map": "/FLIPKARTPROJECT/static/css/main.345ec4e7.css.map",
+    "main.f7799dea.js.map": "/FLIPKARTPROJECT/static/js/main.f7799dea.js.map",
+    "787.27429990.chunk.js.map": "/FLIPKARTPROJECT/static/js/787.27429990.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.345ec4e7.css",
+    "static/js/main.f7799dea.js"
+  ]
+}
