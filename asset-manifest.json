@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/project/register/static/css/main.345ec4e7.css",
-    "main.js": "/project/register/static/js/main.30de336a.js",
-    "static/js/787.27429990.chunk.js": "/project/register/static/js/787.27429990.chunk.js",
-    "static/media/2.jpg": "/project/register/static/media/2.56ed19c9d3be44060182.jpg",
-    "static/media/3.jpg": "/project/register/static/media/3.db3acf57e6bd83f5a126.jpg",
-    "static/media/1.jpg": "/project/register/static/media/1.2a69c2223120286961d0.jpg",
-    "index.html": "/project/register/index.html",
-    "main.345ec4e7.css.map": "/project/register/static/css/main.345ec4e7.css.map",
-    "main.30de336a.js.map": "/project/register/static/js/main.30de336a.js.map",
-    "787.27429990.chunk.js.map": "/project/register/static/js/787.27429990.chunk.js.map"
+    "main.css": "/FLIPKARTPROJECT/register/static/css/main.345ec4e7.css",
+    "main.js": "/FLIPKARTPROJECT/register/static/js/main.9f3d1850.js",
+    "static/js/787.27429990.chunk.js": "/FLIPKARTPROJECT/register/static/js/787.27429990.chunk.js",
+    "static/media/2.jpg": "/FLIPKARTPROJECT/register/static/media/2.56ed19c9d3be44060182.jpg",
+    "static/media/3.jpg": "/FLIPKARTPROJECT/register/static/media/3.db3acf57e6bd83f5a126.jpg",
+    "static/media/1.jpg": "/FLIPKARTPROJECT/register/static/media/1.2a69c2223120286961d0.jpg",
+    "index.html": "/FLIPKARTPROJECT/register/index.html",
+    "main.345ec4e7.css.map": "/FLIPKARTPROJECT/register/static/css/main.345ec4e7.css.map",
+    "main.9f3d1850.js.map": "/FLIPKARTPROJECT/register/static/js/main.9f3d1850.js.map",
+    "787.27429990.chunk.js.map": "/FLIPKARTPROJECT/register/static/js/787.27429990.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.345ec4e7.css",
-    "static/js/main.30de336a.js"
+    "static/js/main.9f3d1850.js"
   ]
 }
